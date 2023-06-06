@@ -47,7 +47,6 @@ python deep_crypto.py --update --train --test
 
 ## Results
 
-Result 1
 ![ss1](https://github.com/Patilsanika/Crypto_Sentiment_Analysis/assets/86789929/2aacf999-5c77-4c68-9a7f-d52da5c89a71)
 
 ![graph1](https://github.com/Patilsanika/Crypto_Sentiment_Analysis/assets/86789929/89b8035c-ec26-44c3-a498-ad2f8e829065)
