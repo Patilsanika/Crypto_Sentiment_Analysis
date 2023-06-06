@@ -23,7 +23,7 @@ Nltk library used for sentiment analysis of extracted text.
 Cryptocompare api to fetch data about cryptocurrency prices.
 
 Newsapi client for python to get news data about crypto currency
-## FlowGraph
+
 ## Usage
 
 To use the project, you will need to install the necessary dependencies using pip. You can do this by running the following command:
