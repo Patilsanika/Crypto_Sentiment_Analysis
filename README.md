@@ -5,7 +5,6 @@ Our project aims to provide suggestions to the users whether they should buy, se
 of cryptocurrencies. To do this we are using sentiment analysis with the help of text abstraction. This project uses a Long Short-Term Memory (LSTM) neural network to predict the price of Bitcoin in US dollars. The LSTM model is implemented using the Keras library in Python and also after conducting literature survey we got to know that LSTM model has more accuracy and longer dependencies. we aim to provide a better solution that
 will be applicable for multiple cryptocurrencies with the best possible accuracy.
 
-
 ## Tech Stack
 
 Full project is coded in python language.
@@ -15,8 +14,8 @@ Python libraries used are matplotlib, pandas, numpy, sklearn, keras
 Nltk library used for sentiment analysis of extracted text.
 
 ## FlowGraph 
-![Screenshot 2023-06-06 162838](https://github.com/Patilsanika/Crypto_Sentiment_Analysis/assets/86789929/37d73b25-9ec2-4e94-9a8c-dccfdcade3db)
 
+![Screenshot 2023-06-06 162838](https://github.com/Patilsanika/Crypto_Sentiment_Analysis/assets/86789929/37d73b25-9ec2-4e94-9a8c-dccfdcade3db)
 
 ## APIs Used
 
@@ -61,7 +60,7 @@ predictive models and test their accuracy on real-time data
 ![graph1](https://github.com/Patilsanika/Crypto_Sentiment_Analysis/assets/86789929/89b8035c-ec26-44c3-a498-ad2f8e829065)
 
 
-## Acknowledgment
+## Acknowledgments
 
 [1]Emre Şaşmaz, F. Boray Tek "Tweet Sentiment Analysis for Cryptocurrencies"Ankara, Turkey
 [13October 2021] https://ieeexplore.ieee.org/document/9558914
