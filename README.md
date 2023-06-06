@@ -16,6 +16,8 @@ Python libraries used are matplotlib, pandas, numpy, sklearn, keras
 
 Nltk library used for sentiment analysis of extracted text.
 
+## FlowGraph 
+![Screenshot 2023-06-06 162838](https://github.com/Patilsanika/Crypto_Sentiment_Analysis/assets/86789929/37d73b25-9ec2-4e94-9a8c-dccfdcade3db)
 
 
 ## APIs Used
@@ -42,3 +44,10 @@ The available arguments are:
 
 For example, to update the dataset, train and test the LSTM model, you can run the following command:
 python deep_crypto.py --update --train --test
+
+## Results
+
+Result 1
+![ss1](https://github.com/Patilsanika/Crypto_Sentiment_Analysis/assets/86789929/2aacf999-5c77-4c68-9a7f-d52da5c89a71)
+
+![graph1](https://github.com/Patilsanika/Crypto_Sentiment_Analysis/assets/86789929/89b8035c-ec26-44c3-a498-ad2f8e829065)
