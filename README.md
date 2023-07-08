@@ -66,7 +66,7 @@ predictive models and test their accuracy on real-time data
 [13October 2021] https://ieeexplore.ieee.org/document/9558914
 
 [2] M. Wimalagunaratne and G. Poravi, ‘‘Deep Learning and Sentiment Analysis-Based Cryptocurrency
-Price Prediction’’ in Proc. 8th Int. Conf. Intell. Syst., Modelling Simulation (ISMS) [May 2018]
+Price Prediction’’ in Proc. 8th Int. Conf. Intell. Syst., Modelling Simulation (ISMS) [May 2020]
 https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9745117
 
 [3] Naila Aslam, Furquan Rustam , Ernesto Lee "Sentiment Analysis and Emotion Detection on
